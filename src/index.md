@@ -8,6 +8,8 @@ Maybe you've heard that Ruby...
 
 ... is <a href="https://isrubydead.com">dead?</a>
 
+... doesn't [scale](/scaling)?
+
 <!--
 
 ... is <a href="/just-for-web">just for web development?</a>
