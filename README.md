@@ -8,3 +8,8 @@ Contributions are *very welcome* and so are counter-arguments. Technology choice
 ## A note about contributions
 
 Keep it positive. I want this page to be about why Ruby is great, not why some other language isn't.
+
+
+## Running rubymyths.dev locally
+
+This is a Bridgetown project. Clone the repo, `bundle install`, `bundle exec bridgetown s` and away you go.
