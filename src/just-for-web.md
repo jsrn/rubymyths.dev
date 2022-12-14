@@ -9,7 +9,7 @@ You can do a heck of a lot with Ruby other than web development. Ruby is a great
 
 ## Development tools
 
-Package managers like [Homebrew](http://brew.sh). Local deployment configurations like [Vagrant](https://www.vagrantup.com) and infrastructure management tools like [Puppet](https://puppet.com/open-source/#osp) or [Chef](https://github.com/chef/chef).
+Package managers like [Homebrew](http://brew.sh). Local deployment configurations like [Vagrant](https://www.vagrantup.com) and infrastructure management tools like [Puppet](https://puppet.com/open-source/#osp) or [Chef](https://github.com/chef/chef). Hey, why don't you write something like [Fastlane](https://fastlane.tools/) to automate huge swathes of your mobile app deployment pipeline?
 
 
 ## Desktop applications
